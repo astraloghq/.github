@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/astraloghq/.github/main/profile/logo.png" alt="AstraLog Logo" width="500">
+  <img src="https://raw.githubusercontent.com/astraloghq/.github/main/profile/astralog.png" alt="AstraLog Logo" width="500">
 
   <h3>The hyper-efficient log ingestion pipeline for modern architectures</h3>
   
