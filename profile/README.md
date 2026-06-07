@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./astralog-logo.png" alt="AstraLog Logo" width="500">
 
-# AstraLog
-
 ### Logging infrastructure for modern applications.
 
 Add searchable logs to your application in minutes.
